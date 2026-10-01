@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Feel free to add your links here later -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,8 +11,8 @@
   <a href="https://python.org" target="_blank" rel="noreferrer"> 
     <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> 
   </a> 
-  <!-- MS Excel -->
+  <!-- MS Excel Badge (Bulletproof URL for GitHub) -->
   <a href="https://office.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="excel" width="40" height="40"/> 
+    <img src="https://shields.io" alt="excel" height="40"/> 
   </a>
 </p>
