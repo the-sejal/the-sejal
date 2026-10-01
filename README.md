@@ -3,16 +3,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- You can paste your LinkedIn or portfolio links here later -->
+  <!-- Feel free to add your links here later -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> 
   </a> 
-  <!-- MS Excel (Uses a web URL instead of a local C:\ path) -->
+  <!-- MS Excel -->
   <a href="https://office.com" target="_blank" rel="noreferrer"> 
     <img src="https://jsdelivr.net" alt="excel" width="40" height="40"/> 
   </a>
