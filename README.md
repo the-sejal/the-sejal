@@ -6,13 +6,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Python -->
-  <a href="https://python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> 
-  </a> 
-  <!-- MS Excel Badge (Bulletproof URL for GitHub) -->
-  <a href="https://office.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="excel" height="40"/> 
-  </a>
-</p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
