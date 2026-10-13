@@ -2,10 +2,10 @@
 <h3 align="center">MIS & Data Analyst | Turning complex databases into clean dashboards.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/sejal-sahu-965658233" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sejalsahu6011@gmail.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
