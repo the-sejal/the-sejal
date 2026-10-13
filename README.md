@@ -2,12 +2,9 @@
 <h3 align="center">MIS & Data Analyst | Turning complex databases into clean dashboards.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sejalsahu6011@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  <strong>📬 Connect With Me:</strong> 
+  <a href="https://linkedin.com" target="_blank">LinkedIn</a> • 
+  <a href="mailto:sejalsahu6011@gmail.com">Email Me</a>
 </p>
 
 ---
@@ -21,29 +18,34 @@ I am a passionate **MIS & Data Analyst** dedicated to bridging the gap between r
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Stack & Frameworks
 
-<p align="left">
-  <!-- Solid, robust flat badges -->
-  <img src="https://shields.io" alt="Python" height="30"/>
-  <img src="https://shields.io" alt="SQL" height="30"/>
-  <img src="https://shields.io" alt="Excel" height="30"/>
-  <img src="https://shields.io" alt="Power BI" height="30"/>
-  <img src="https://shields.io" alt="Tableau" height="30"/>
-  <img src="https://shields.io" alt="Git" height="30"/>
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| 🧑‍💻 **Programming Languages** | `Python` (Pandas, NumPy) • `SQL`|
+| 📈 **Data Visualization** | `Power BI` (DAX, Interactive Reports) • `Advanced MS Excel` |
+
+
 
 ---
 
-### 📉 Contribution Graph
+### 📊 GitHub Overview
 
-<p align="center">
-  <!-- Bypasses the broken vercel stats app server entirely using a reliable, fast activity graph wrapper -->
-  <img src="https://vercel.app" alt="Sejal's Contribution Graph" width="100%" />
-</p>
+```json
+{
+  "username": "sejalsahu",
+  "role": "MIS & Data Analyst",
+  "skills": ["Python", "SQL", "Power BI", "Excel"],
+  "focus": "Automating business reports & scaling analytics architecture"
+}
+```
 
 ---
 
 ### 📁 Featured Projects
-*   **[Sales Performance Dashboard](https://github.com)** - Designed an interactive Power BI dashboard tracking sales KPI metrics across multiple regions.
-*   **[Database ETL Automation Pipeline](https://github.com)** - Built an automated Python script pipeline that decreased weekly database reporting times by 40%.
+*   📊 **[Customer Credit & Loan Analytics Dashboard](https://github.com)** 
+    * *Designed an interactive Power BI dashboard about customer payment delay and credit behaviour.*
+*   ⚙️ **[Pizza Sales Dashboard](https://github.com)** 
+    * *built an interactive Excel dashboard with dynamic pivot tables, trend charts, and slicers to visualize revenue, order volume, and top-selling products.*
+*   ⚙️ **[UPI transaction Dashboard](https://github.com)** 
+    * *built an interactive Excel dashboard PhonePe UPI transactions, tracking critical performance metrics, regional distributions, time trends, and market share across different UPI apps and banks.*
