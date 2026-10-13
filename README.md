@@ -49,5 +49,5 @@ I am a passionate **MIS & Data Analyst** dedicated to bridging the gap between r
 ---
 
 ### 📁 Featured Projects
-*   **[Project Title 1](https://github.com)** - A short, one-line summary of what you achieved (e.g., *Built an automated pipeline that decreased reporting time by 40%*).
-*   **[Project Title 2](https://github.com)** - A short, one-line summary (e.g., *Designed an interactive Power BI dashboard tracking sales KPI metrics*).
+*   **[Sales Performance Dashboard](https://github.com)** - Designed an interactive Power BI dashboard tracking sales KPI metrics across multiple regions.
+*   **[Database ETL Automation Pipeline](https://github.com)** - Built an automated Python script pipeline that decreased weekly database reporting times by 40%.
