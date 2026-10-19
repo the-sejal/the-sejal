@@ -3,10 +3,10 @@
 
 <p align="center">
   <strong>📬 Connect With Me:</strong> 
-  <a href=<a href="https://linkedin.com" target="_blank">LinkedIn</a>
- target="_blank">LinkedIn</a> • 
+  <a href="https://linkedin.com" target="_blank">LinkedIn</a> • 
   <a href="mailto:sejalsahu6011@gmail.com">Email Me</a>
 </p>
+
 
 ---
 
