@@ -41,9 +41,8 @@ I am a passionate **MIS & Data Analyst** dedicated to bridging the gap between r
 ```
 
 ---
-
 ### 📁 Featured Projects
-*   📊 **[Customer Credit & Loan Analytics Dashboard](https://github.com)** 
+*   📊 **[Customer Credit & Loan Analytics Dashboard](https://github.com/the-sejal/customer-credit-and-loan-analytics)** 
     * *Designed an interactive Power BI dashboard about customer payment delay and credit behaviour.*
 *   ⚙️ **[Pizza Sales Dashboard](https://github.com)** 
     * *built an interactive Excel dashboard with dynamic pivot tables, trend charts, and slicers to visualize revenue, order volume, and top-selling products.*
